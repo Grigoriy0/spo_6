@@ -1,0 +1,6 @@
+linux/cmake-build-debug
+linux/.idea
+windows/cmake-build-debug
+windows/.idea
+*.exe
+*.txt
